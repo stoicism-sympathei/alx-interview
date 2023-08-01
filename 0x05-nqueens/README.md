@@ -6,8 +6,6 @@
 
 mandatory
 
-Score:  0.00%  (Checks completed: 0.00%)
-
 ![](http://www.crestbook.com/files/Judit-photo1_602x433.jpg)  
 Chess grandmaster  [Judit Polgár](https://intranet.alxswe.com/rltoken/fZ1ecpPEmVL9nvkBn8WQGg "Judit Polgár"), the strongest female chess player of all time  
   
