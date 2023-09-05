@@ -52,3 +52,4 @@ if __name__ == "__main__":
     x = 3
     nums = [4, 5, 1]
     print("Winner: {}".format(isWinner(x, nums)))
+
